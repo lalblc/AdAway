@@ -1,3 +1,5 @@
+# 请安装下面模块,否者无对应hosts导致无法使用
+https://github.com/lalblc/AdAway-magisk-module
 # ![AdAway logo](app/src/main/res/mipmap-mdpi/icon.png) AdAway
 
 [![Build Status](https://github.com/adaway/adaway/actions/workflows/android-ci.yml/badge.svg)](https://github.com/AdAway/AdAway/actions/workflows/android-ci.yml) 
