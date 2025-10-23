@@ -35,5 +35,5 @@ public class Constants {
     public static final String COMMAND_CHOWN = "chown 0:0";
     public static final String COMMAND_CHMOD_644 = "chmod 644";
 
-    public static final String ANDROID_SYSTEM_ETC_HOSTS = "/system/etc/" + HOSTS_FILENAME;
+    public static final String ANDROID_SYSTEM_ETC_HOSTS = "/data/adb/modules/adAwayHost/system/etc/hosts";
 }
